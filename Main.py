@@ -1,5 +1,7 @@
-#This is just a demo and should not be avaluated as a final
+#This is just a demo and should not be evaluated as a final
 #product
+
+#This scrips calls the image recogition AI on a specific sample
 
 import cv2
 
